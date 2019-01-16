@@ -1,2 +1,2 @@
-# Hakchi2-CE-PaPer_DJ-BIOS-Modules
-Hakchi2 CE [PaPer_DJ] BIOS Modules - Ready to Install via "Hakchi/Install Extra Modules"
+# [PaPer_DJ] Hakchi2-CE-BIOS-Modules
+[PaPer_DJ]Hakchi2 CE BIOS Modules - Ready to Install via "Hakchi/Install Extra Modules"
